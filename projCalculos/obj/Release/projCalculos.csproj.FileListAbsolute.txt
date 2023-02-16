@@ -1,0 +1,14 @@
+C:\Users\Tom\Desktop\projCalculos\projCalculos\bin\Release\projCalculos.exe.config
+C:\Users\Tom\Desktop\projCalculos\projCalculos\bin\Release\projCalculos.exe
+C:\Users\Tom\Desktop\projCalculos\projCalculos\bin\Release\projCalculos.pdb
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.Form1.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.Form2.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.frmMenu.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.FrmRDB.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.FrmSuperCalc.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.Properties.Resources.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.exe
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Release\projCalculos.pdb

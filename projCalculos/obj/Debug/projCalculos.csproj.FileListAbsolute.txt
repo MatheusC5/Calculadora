@@ -1,0 +1,141 @@
+D:\Módulo 2\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+D:\Módulo 2\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+D:\Módulo 2\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+D:\Módulo 2\projCalculos\projCalculos\obj\Debug\projCalculos.csprojResolveAssemblyReference.cache
+D:\Módulo 2\projCalculos\projCalculos\obj\Debug\projCalculos.Form1.resources
+D:\Módulo 2\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+D:\Módulo 2\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.Cache
+D:\Módulo 2\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+D:\Módulo 2\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+D:\Módulo 2\DS\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+D:\Módulo 2\DS\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+D:\Módulo 2\DS\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+D:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.csprojAssemblyReference.cache
+D:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.Form1.resources
+D:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+D:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.cache
+D:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.CoreCompileInputs.cache
+D:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+D:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+H:\Módulo 2\DS\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+H:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+H:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+H:\Módulo 2\DS\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+H:\Módulo 2\DS\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+H:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.csprojResolveAssemblyReference.cache
+H:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.Form1.resources
+H:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+H:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.Cache
+H:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+D:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+G:\Módulo 2\DS\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+G:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+G:\Módulo 2\DS\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Form1.resources
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.cache
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.csprojResolveAssemblyReference.cache
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Form1.resources
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.FrmRDB.resources
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.Cache
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.FrmRDB.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+C:\Users\Tom\Desktop\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+C:\Users\Tom\Desktop\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.Form1.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.Form2.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.FrmRDB.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Form2.resources
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.csprojAssemblyReference.cache
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Form1.resources
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Form2.resources
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.FrmRDB.resources
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.FrmSuperCalc.resources
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.cache
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.CoreCompileInputs.cache
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+I:\Disciplinas da Etec\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+C:\Users\Tom\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.FrmSuperCalc.resources
+G:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.FrmSuperCalc.resources
+C:\Users\aluno\Desktop\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+C:\Users\aluno\Desktop\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+C:\Users\aluno\Desktop\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.Form1.resources
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.Form2.resources
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.FrmRDB.resources
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.FrmSuperCalc.resources
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+C:\Users\aluno\Desktop\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.Cache
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.csprojResolveAssemblyReference.cache
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.Form2.resources
+D:\Módulo 2\DS\Aula 1\projCalculos\projCalculos\obj\Debug\projCalculos.FrmSuperCalc.resources
+H:\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+H:\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+H:\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.csprojResolveAssemblyReference.cache
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.FrmRDB.resources
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.FrmSuperCalc.resources
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.Cache
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.frmCalc.resources
+H:\projCalculos\projCalculos\obj\Debug\projCalculos.FrmCalcOO.resources
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\bin\Debug\projCalculos.exe.config
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.exe
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.pdb
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\bin\Debug\projCalculos.exe
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\bin\Debug\projCalculos.pdb
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.csprojResolveAssemblyReference.cache
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.frmCalc.resources
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.frmCalcOO.resources
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.frmRDB.resources
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.frmSuperCalc.resources
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+H:\2º Módulo\Desenvolvimento de Sistemas\projCalculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.Cache
+C:\Users\mathe\Desktop\Calculos\projCalculos\bin\Debug\projCalculos.exe.config
+C:\Users\mathe\Desktop\Calculos\projCalculos\bin\Debug\projCalculos.exe
+C:\Users\mathe\Desktop\Calculos\projCalculos\bin\Debug\projCalculos.pdb
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.frmCalc.resources
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.frmCalcOO.resources
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.frmMenu.resources
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.frmRDB.resources
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.frmSuperCalc.resources
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.Properties.Resources.resources
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.csproj.GenerateResource.cache
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.exe
+C:\Users\mathe\Desktop\Calculos\projCalculos\obj\Debug\projCalculos.pdb
